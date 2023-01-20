@@ -1,0 +1,1 @@
+# successful_games_patterns
